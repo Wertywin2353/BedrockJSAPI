@@ -11,3 +11,5 @@ Features:
 - Open MC Preview
 - Open MC Editor
 - Launch and show MC Store
+
+( Free to use for personal or commercial )
