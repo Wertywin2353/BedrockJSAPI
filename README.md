@@ -12,4 +12,4 @@ Features:
 - Open MC Editor
 - Launch and show MC Store
 
-( Free to use for personal or commercial )
+( Free to use for personal or commercial purposes )
