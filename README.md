@@ -1,4 +1,4 @@
-Bedrock JavaScript API for Sites
+Bedrock JavaScript API for Sites<br>
 By Wertywin2353, Latest ver.: 1.0Rel
 
 Created in 2024, Working with MCB 1.20.81
